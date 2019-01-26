@@ -1,5 +1,3 @@
-
-
 # Java—异常处理
 
 ### 异常
@@ -12,11 +10,11 @@
 
 受查异常：RuntimeException、IOException ，Java不强制进行异常处理
 
-非受查异常：处理受查异常之外的异常
+非受查异常：处理受查异常之外的异常,必须进行异常处理
 
 Error   ：java内部因为资源耗尽或者内部处理所出现的异常，（OOM，StackOverError）
 
-RuntimeException:程序运行时错误，是由于程序本身的错误导致的异常
+RuntimeException:程序运行时错误，是由于程序本身的错误导致的异常：NullPointerException(空指针),NumberFormatException数字格式异常,ClassCastexception（类型转换）
 
 IOException:由于I/O这类的错误导致的程序的异常，比如打开一个不存在的文件
 
