@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="079aabe5-ef12-4469-a383-0ebdc3dc7050" name="Default" comment="" />
+    <list default="true" id="20466d3a-1f3c-4aec-b2f3-5a6054a68226" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,10 +15,17 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="188" column="50" selection-start-line="188" selection-start-column="50" selection-end-line="188" selection-end-column="50" />
+            <state relative-caret-position="339">
+              <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
               <folding>
-                <element signature="e#0#4124#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#972#973#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1438#1439#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,24 +68,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="练习2019_1_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="练习2019_1_29" type="462c0819:PsiDirectoryNode" />
+              <item name="队列" type="b2602c69:ProjectViewProjectNode" />
+              <item name="队列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="练习2019_1_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="练习2019_1_29" type="462c0819:PsiDirectoryNode" />
+              <item name="队列" type="b2602c69:ProjectViewProjectNode" />
+              <item name="队列" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +109,7 @@
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="练习2019_1_29" />
+      <module name="队列" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -157,24 +164,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="079aabe5-ef12-4469-a383-0ebdc3dc7050" name="Default" comment="" />
-      <created>1548741217719</created>
+      <changelist id="20466d3a-1f3c-4aec-b2f3-5a6054a68226" name="Default" comment="" />
+      <created>1548770142745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548741217719</updated>
-      <workItem from="1548741232383" duration="8191000" />
+      <updated>1548770142745</updated>
+      <workItem from="1548770164382" duration="3455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8191000" />
+    <option name="totallyTimeSpent" value="3455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -182,7 +189,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38425198" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -196,8 +203,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -211,10 +218,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="188" column="50" selection-start-line="188" selection-start-column="50" selection-end-line="188" selection-end-column="50" />
+        <state relative-caret-position="339">
+          <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
           <folding>
-            <element signature="e#0#4124#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
           </folding>
         </state>
       </provider>
